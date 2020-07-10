@@ -1,0 +1,26 @@
+{
+  "name": "maratonadev",
+  "version": "1.0.0",
+  "description": "\"# Projeto Doe da MaratonaDev da Rocketseat\"",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagcrs/doe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lagcrs/doe/issues"
+  },
+  "homepage": "https://github.com/lagcrs/doe#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1",
+    "pg": "^8.3.0"
+  }
+}
